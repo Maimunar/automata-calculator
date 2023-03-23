@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!Calculator.g4
+!antlrGui.bat
+!input.txt
+!input2.txt
+!input3.txt
+!MainListener.py
+!MainVisitor.py
+!java/Calculator.g4
+!LexerRules.g4

@@ -1,0 +1,99 @@
+((10 + ((25 * 7) + 5)) / 10)
+(1+2)
+(2+3)
+x=(2+7)
+(x + 5)
+y=(x+10)
+z=(x+y)
+z
+(z*2)
+(z/y)
+a=5
+true
+false
+2 > 4
+x < 10
+z != a
+b = false
+b == true
+false && true
+false || true
+c = !b
+(2 > 3) || true
+((3 == 3) && (4 < 5)) || false
+(c != b) && b
+if true { 
+    x = 5 
+}
+if (true) { 
+    x = 5 
+}
+j = 10
+if (false) { 
+    g= 10
+    h = 5
+    j = x + y
+}
+123
+while false {
+    15 + 25
+}
+while (j > x) {
+    x = x + 5
+}
+if (x == 5) {
+    x = 6
+} 
+else if (y == 7) {
+    y = 8
+} 
+else {
+    x = 5
+}
+if (x == 10 && y == 5) {
+    10 + 25
+} 
+else {
+    25 + 25
+}
+k = 3
+v = 7
+if (k == 3) {
+    if v == 7 {
+        ladiesAndGentlemenWeGotEm = true
+    }
+}
+else {
+    testingElse = true
+}
+while (k == 4) {
+    k = 4
+}
+while (k >= 0 || v >= 0) {
+    k = k - 1
+    v = v - 1
+}
+function calculate() {
+    x = 5
+    5 + 6
+}
+calculate()
+function calculateParam(x) {
+    x + 10
+}
+calculateParam(10)
+function returnCalculateParam(x) {
+    return x + 10
+}
+returnCalculateParam(5)
+function bigFunction(x y z) {
+    if (x > 5) {
+        return (x * y)
+    } 
+    else {
+        return (z)
+    }
+}
+bigFunction(10 5 3)
+
+
